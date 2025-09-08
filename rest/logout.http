@@ -1,0 +1,3 @@
+POST http://192.168.1.8:8000/api/logout
+Authorization: Bearer 31|0da9jqcwimRB6R969EetoxaaSfR1JToDbc56Q3hr2842ce1a
+Content-Type: application/json

@@ -1,0 +1,7 @@
+POST http://192.168.1.8:8000/api/login
+Content-Type: application/json
+
+{
+    "email": "cmoreno@swapps.com",
+    "password": "admin123"
+}
